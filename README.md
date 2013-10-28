@@ -38,7 +38,7 @@ MIT License, see LICENSE file
 
 ## About the Author
 
-I work at {Crowd Interactive}[http://www.crowdint.com], it is a leading Ruby and Rails
+I work at [Crowd Interactive](http://www.crowdint.com), it is a leading Ruby and Rails
 consultancy firm based in Mexico currently doing business with startups in the
 United States. We specialize in building and growing Rails applications, by increasing
 your IT crew onsite or offsite. We pick our projects carefully, as we only work
