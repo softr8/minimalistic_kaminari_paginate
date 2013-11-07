@@ -1,7 +1,7 @@
-minimalistic_kaminari_paginate
+Minimalistic kaminari paginate helper
 ==============================
 
-Minimalistic kaminari paginate view helper, much faster
+Minimalistic kaminari paginate view helper, but much faster
 
 
 ## Installation
@@ -22,12 +22,12 @@ Or install it yourself as:
 
 Instead of normal kaminari paginate helper, use minimalistic_paginate
 
-    minimalistic_paginate collection, params: params, window: 4, sides: 3
+    minimalistic_paginate collection, window: 4, sides: 3
 
 ## Contributing
 
 1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
+2. Create your feature branch (`git checkout -b my-new-awesome-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
