@@ -10,7 +10,6 @@ module MinimalisticKaminariPaginate
     # * <tt>:sides</tt> - The "left/right outer window" size (3 by default).
     # * <tt>:params</tt> - url_for parameters for the links (:controller, :action, etc.)
     def minimalistic_paginate collection, options = {}
-      params = options[:params]
       window = options[:window] || 4
       side_size = options[:sides] || 3
       output = ''
